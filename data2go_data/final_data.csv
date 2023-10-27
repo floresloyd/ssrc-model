@@ -1,0 +1,349 @@
+Variable/Indicator,Data,Sector
+adult_samehome_nyc,89.4606976027601,DEMOGRAPHICS
+asian_api_pop_nyc,14.1090314889791,DEMOGRAPHICS
+asian_api_total_nyc,1184982,DEMOGRAPHICS
+asian_api_pop_nyc_historical,9.83,DEMOGRAPHICS
+asian_api_pop_change_nyc,43.5303305084344,DEMOGRAPHICS
+aframer_pop_nyc,21.7136292218793,DEMOGRAPHICS
+black_pop_nyc,21.7136292218793,DEMOGRAPHICS
+aframer_total_pop_nyc,1823673,DEMOGRAPHICS
+black_pop_nyc_historical,24.5015719983747,DEMOGRAPHICS
+black_pop_change_nyc,-11.3786281822257,DEMOGRAPHICS
+child_samehome_nyc,92.7889816079,DEMOGRAPHICS
+disabled_nyc,10.4698333264522,DEMOGRAPHICS
+divorced_nyc,7.7806099247245,DEMOGRAPHICS
+lonelyaged_nyc,11.6407431505645,DEMOGRAPHICS
+sixtyfive_nyc,14.8293531369199,DEMOGRAPHICS
+familynochild_nyc,31.3456823308932,DEMOGRAPHICS
+female_veterans_nyc,11209,DEMOGRAPHICS
+female_veterans_percent_nyc,7.80364527492725,DEMOGRAPHICS
+age_pyramid_female_under_5_nyc,261720,DEMOGRAPHICS
+age_pyramid_female_5_to_14_nyc,459288,DEMOGRAPHICS
+age_pyramid_female_15_to_24_nyc,497889,DEMOGRAPHICS
+age_pyramid_female_25_to_34_nyc,766949,DEMOGRAPHICS
+age_pyramid_female_35_to_44_nyc,590674,DEMOGRAPHICS
+age_pyramid_female_45_to_54_nyc,550900,DEMOGRAPHICS
+age_pyramid_female_55_to_64_nyc,534851,DEMOGRAPHICS
+age_pyramid_female_65_to_74_nyc,393493,DEMOGRAPHICS
+age_pyramid_female_75_to_84_nyc,230971,DEMOGRAPHICS
+age_pyramid_female_85_plus_nyc,108080,DEMOGRAPHICS
+perc_age_pyramid_female_under_5_nyc,3.11617874473672,DEMOGRAPHICS
+perc_age_pyramid_female_5_to_14_nyc,5.46852935699464,DEMOGRAPHICS
+perc_age_pyramid_female_15_to_24_nyc,5.92813357419463,DEMOGRAPHICS
+perc_age_pyramid_female_25_to_34_nyc,9.13170629717667,DEMOGRAPHICS
+perc_age_pyramid_female_35_to_44_nyc,7.03288156758603,DEMOGRAPHICS
+perc_age_pyramid_female_45_to_54_nyc,6.55931098301795,DEMOGRAPHICS
+perc_age_pyramid_female_55_to_64_nyc,6.36822297799625,DEMOGRAPHICS
+perc_age_pyramid_female_65_to_74_nyc,4.68513878497128,DEMOGRAPHICS
+perc_age_pyramid_female_75_to_84_nyc,2.75006465249344,DEMOGRAPHICS
+perc_age_pyramid_female_85_plus_nyc,1.28685846985765,DEMOGRAPHICS
+foreign_nyc,36.8279414979471,DEMOGRAPHICS
+nec_afr_nyc,0.504318340970797,DEMOGRAPHICS
+nec_asia_nyc,0.0804374660129075,DEMOGRAPHICS
+aus_nz_ocean_nyc,0.383565151437755,DEMOGRAPHICS
+carib_amer_nyc,27.3467016436012,DEMOGRAPHICS
+cent_amer_nyc,8.98381099005977,DEMOGRAPHICS
+east_afr_nyc,0.297049613234162,DEMOGRAPHICS
+east_asia_nyc,15.2497861359173,DEMOGRAPHICS
+east_eur_nyc,8.41001511112203,DEMOGRAPHICS
+nec_eur_nyc,0.0419968924239417,DEMOGRAPHICS
+fiji_ocean_nyc,0.00236010249957486,DEMOGRAPHICS
+mid_afr_nyc,0.0676670483782216,DEMOGRAPHICS
+north_amer_nyc,0.834765021082505,DEMOGRAPHICS
+north_afr_nyc,1.11998179164756,DEMOGRAPHICS
+north_eur_nyc,1.67505850144484,DEMOGRAPHICS
+nec_ocean_nyc,0.0138049831139516,DEMOGRAPHICS
+south_amer_nyc,13.3552057718408,DEMOGRAPHICS
+south_cen_asia_nyc,8.99490023879064,DEMOGRAPHICS
+south_east_asia_nyc,3.25529261068072,DEMOGRAPHICS
+south_afr_nyc,0.0884553484772166,DEMOGRAPHICS
+south_eur_nyc,2.27258472606323,DEMOGRAPHICS
+west_afr_nyc,3.08863057800527,DEMOGRAPHICS
+west_asia_nyc,2.41774719487269,DEMOGRAPHICS
+west_eur_nyc,1.51586473832283,DEMOGRAPHICS
+foster_care_nyc,3481,DEMOGRAPHICS
+grandrearers_nyc,0.316407996744226,DEMOGRAPHICS
+familychild_nyc,28.2710356678105,DEMOGRAPHICS
+latino_pop_nyc,29.164477848365,DEMOGRAPHICS
+latino_total_pop_nyc,2449451,DEMOGRAPHICS
+latino_pop_change_nyc,8.10062897504471,DEMOGRAPHICS
+latino_pop_nyc_historical,26.9790084709847,DEMOGRAPHICS
+lonely_nyc,32.1828006692425,DEMOGRAPHICS
+male_veterans_nyc,132429,DEMOGRAPHICS
+male_veterans_percent_nyc,92.1963547250728,DEMOGRAPHICS
+age_pyramid_male_under_5_nyc,273348,DEMOGRAPHICS
+age_pyramid_male_5_to_14_nyc,477570,DEMOGRAPHICS
+age_pyramid_male_15_to_24_nyc,480188,DEMOGRAPHICS
+age_pyramid_male_25_to_34_nyc,733083,DEMOGRAPHICS
+age_pyramid_male_35_to_44_nyc,556474,DEMOGRAPHICS
+age_pyramid_male_45_to_54_nyc,504974,DEMOGRAPHICS
+age_pyramid_male_55_to_64_nyc,465360,DEMOGRAPHICS
+age_pyramid_male_65_to_74_nyc,306443,DEMOGRAPHICS
+age_pyramid_male_75_to_84_nyc,154206,DEMOGRAPHICS
+age_pyramid_male_85_plus_nyc,52287,DEMOGRAPHICS
+perc_age_pyramid_male_under_5_nyc,3.25462795168994,DEMOGRAPHICS
+perc_age_pyramid_male_5_to_14_nyc,5.68620465812285,DEMOGRAPHICS
+perc_age_pyramid_male_15_to_24_nyc,5.71737597079946,DEMOGRAPHICS
+perc_age_pyramid_male_25_to_34_nyc,8.7284795305205,DEMOGRAPHICS
+perc_age_pyramid_male_35_to_44_nyc,6.62567801772359,DEMOGRAPHICS
+perc_age_pyramid_male_45_to_54_nyc,6.01249138562081,DEMOGRAPHICS
+perc_age_pyramid_male_55_to_64_nyc,5.54082584690004,DEMOGRAPHICS
+perc_age_pyramid_male_65_to_74_nyc,3.64867477866939,DEMOGRAPHICS
+perc_age_pyramid_male_75_to_84_nyc,1.83605937456392,DEMOGRAPHICS
+perc_age_pyramid_male_85_plus_nyc,0.622557076364239,DEMOGRAPHICS
+married_nyc,40.9417767628503,DEMOGRAPHICS
+marriedchild_nyc,16.6682891107415,DEMOGRAPHICS
+natamer_pop_nyc,0.185694343966505,DEMOGRAPHICS
+natamer_total_pop_nyc,15596,DEMOGRAPHICS
+native_amer_pop_nyc_historical,0.216288695272567,DEMOGRAPHICS
+native_amer_change_nyc,-14.1451458050116,DEMOGRAPHICS
+nonfammore1_nyc,8.38261376368505,DEMOGRAPHICS
+nonfamilychild_nyc,0.182132431631253,DEMOGRAPHICS
+total_population_nyc,8398748,DEMOGRAPHICS
+underfive_nyc,6.37080669642666,DEMOGRAPHICS
+total_population_nyc_historical,8008278,DEMOGRAPHICS
+total_population_change_nyc,4.87582973518152,DEMOGRAPHICS
+prime_age_nyc,44.0905477816455,DEMOGRAPHICS
+singledad_nyc,2.21177856715788,DEMOGRAPHICS
+singlemom_nyc,9.20883555827987,DEMOGRAPHICS
+api_speaker_nyc,8.17922397656059,DEMOGRAPHICS
+badenglish_speakers_nyc,22.3026496500366,DEMOGRAPHICS
+nonenglish_speakers_nyc,48.2876592129893,DEMOGRAPHICS
+spanish_speaker_nyc,23.9068731179295,DEMOGRAPHICS
+age_pyramid_total_nyc,8398748,DEMOGRAPHICS
+other_pop_nyc,2.96743038367147,DEMOGRAPHICS
+other_total_pop_nyc,249227,DEMOGRAPHICS
+other_pop_nyc_historical,3.545381,DEMOGRAPHICS
+other_pop_change_nyc,-16.3015093816019,DEMOGRAPHICS
+native_nyc,63.1720585020529,DEMOGRAPHICS
+total_veterans_percent_nyc,2.15768213282428,DEMOGRAPHICS
+total_veterans_nyc,143638,DEMOGRAPHICS
+white_pop_nyc,31.8597367131387,DEMOGRAPHICS
+white_total_pop_nyc,2675819,DEMOGRAPHICS
+white_pop_change_nyc,-8.91919781581886,DEMOGRAPHICS
+white_pop_nyc_historical,34.97964,DEMOGRAPHICS
+undereighteen_nyc,20.7085151263022,DEMOGRAPHICS
+at_least_bachelors_nyc,38.9843067739498,EDUCATION
+at_least_bachelors_nyc_historical,27.4179989713747,EDUCATION
+at_least_bachelors_change_nyc,42.1850909493821,EDUCATION
+at_least_hs_nyc,82.71237042435,EDUCATION
+at_least_hs_nyc_historical,79,EDUCATION
+at_least_hs_change_nyc,4.69920306879747,EDUCATION
+complete_bach_nyc,22.8354383991918,EDUCATION
+complete_hs_somecollege_nyc,43.7280636504002,EDUCATION
+no_hs_nyc,17.28762957565,EDUCATION
+no_hs_nyc_historical,21,EDUCATION
+no_hs_change_nyc,-17.6779544016667,EDUCATION
+dis_y_num_nyc,132555,EDUCATION
+dis_y_perc_nyc,14.1487834426518,EDUCATION
+grad_degree_nyc,16.148868374758,EDUCATION
+recent_hs_grad_rates_nyc,70.6,EDUCATION
+pre_k_nyc,62.6072730672151,EDUCATION
+sch_enrol_nyc,79.7794140097469,EDUCATION
+veterans_bachelors_nyc,44426,EDUCATION
+veterans_bachelors_percent_nyc,31.408896807217,EDUCATION
+veterans_nohs_nyc,14123,EDUCATION
+veterans_nohs_percent_nyc,9.98487033737734,EDUCATION
+air_qual_nyc,7,ENVIRONMENT
+lead_kids_nyc,237,ENVIRONMENT
+citu_land_nyc,16.38345529,ENVIRONMENT
+lead_complaints_nyc,30348,ENVIRONMENT
+noise_per_1000_nyc,55.67124,ENVIRONMENT
+park_recreation_land_nyc,24.0322855,ENVIRONMENT
+diversion_nyc,19,ENVIRONMENT
+residential_land_nyc,42.19310064,ENVIRONMENT
+chem_air_nyc,238349.21,ENVIRONMENT
+vacant_parking_land_nyc,17.39115857,ENVIRONMENT
+waste_nyc,746.8404,ENVIRONMENT
+water_per_1000_nyc,7.388693,ENVIRONMENT
+bodega_supermarket_nyc,13,FOOD SYSTEMS
+food_insecure_nyc,12.9,FOOD SYSTEMS
+meal_gap_nyc,241956200,FOOD SYSTEMS
+households_receiving_snap_benefits_nyc,20.2806346750004,FOOD SYSTEMS
+alchosp_nyc,1019,HEALTH
+alzheimers_deaths_nyc,10.3,HEALTH
+avoidable_asthma_nyc,249,HEALTH
+avoidable_diabetes_nyc,312,HEALTH
+binge_drinking_nyc,17,HEALTH
+birth_rate_nyc,13.6,HEALTH
+births_nyc,117013,HEALTH
+cancer_deaths_nyc,135.9,HEALTH
+asthma5to14_nyc,223,HEALTH
+children_with_medicaid_nyc,45.9979762122719,HEALTH
+death_rate_nyc,5.5,HEALTH
+deaths_nyc,54319,HEALTH
+accidents_death_nyc,11,HEALTH
+diabetes_nyc,11,HEALTH
+diabetes_deaths_nyc,18.3,HEALTH
+veterans_disabled_nyc,21320,HEALTH
+veterans_disabled_percent_nyc,14.842868878709,HEALTH
+drughosp_nyc,1019,HEALTH
+health_insurance_employer_nyc,40.7815385,HEALTH
+influenza_deaths_nyc,19,HEALTH
+vac_flu_nyc,43,HEALTH
+health_insurance_nyc,92.805920228,HEALTH
+heart_disease_deaths_nyc,171.1,HEALTH
+hiv_deaths_nyc,3.9,HEALTH
+vac_hpv_nyc,63,HEALTH
+hypertension_deaths_nyc,11.9,HEALTH
+infant_mortality_nyc,4.3,HEALTH
+prenatal_care_nyc,6.5,HEALTH
+life_expectancy_nyc,81.2,HEALTH
+low_birth_wght_nyc,8.5,HEALTH
+lower_resp_deaths_nyc,17.6,HEALTH
+health_insurance_multiple_nyc,15.92178134,HEALTH
+hiv_test_nyc,24,HEALTH
+any_exercise_nyc,27,HEALTH
+fruits_veggies_nyc,13,HEALTH
+health_insurance_uninsured_nyc,7.194079772,HEALTH
+assaulthosp_nyc,59,HEALTH
+obesity_nyc,24,HEALTH
+prematuremortality_nyc,184.9,HEALTH
+pre_term_birth_nyc,8.9537059984788,HEALTH
+health_insurance_direct_nyc,6.505731654,HEALTH
+psychhosp_rate_nyc,676,HEALTH
+health_insurance_public_nyc,29.59686874,HEALTH
+rodent_per_1000_nyc,3.680608,HEALTH
+self_reported_health_good_nyc,78,HEALTH
+sewer_per_1000_nyc,3.683332,HEALTH
+current_smoker_nyc,14,HEALTH
+stroke_death_nyc,18.7,HEALTH
+substance_abuse_related_deaths_nyc,16.6,HEALTH
+teen_birth_nyc,13.8,HEALTH
+sanitation_per_1000_nyc,2.486229,HEALTH
+sugary_drink_nyc,23,HEALTH
+broadband_nyc,84.0429066326351,HOUSING & INFRASTRUCTURE
+computer_nyc,90.7616150247951,HOUSING & INFRASTRUCTURE
+ex_high_cost_h_nyc,28.0905202084767,HOUSING & INFRASTRUCTURE
+ex_high_cost_h_nyc_historical,26.6629576999927,HOUSING & INFRASTRUCTURE
+ex_high_cost_h_change_nyc,5.35410408907637,HOUSING & INFRASTRUCTURE
+family_homeless_nyc,3.64924,HOUSING & INFRASTRUCTURE
+foreclosure_nyc,9.7,HOUSING & INFRASTRUCTURE
+foreclosure_05_nyc,8.3,HOUSING & INFRASTRUCTURE
+foreclosure_09_nyc,23.3,HOUSING & INFRASTRUCTURE
+heat_per_1000_nyc,25.10258,HOUSING & INFRASTRUCTURE
+heat_h20_complaints_nyc,222377,HOUSING & INFRASTRUCTURE
+high_cost_h_nyc,52.5983380863408,HOUSING & INFRASTRUCTURE
+high_cost_h_nyc_historical,49.4291287617519,HOUSING & INFRASTRUCTURE
+high_cost_h_change_nyc,6.41162287092788,HOUSING & INFRASTRUCTURE
+homeless_children_rate_nyc,13.3147640487677,HOUSING & INFRASTRUCTURE
+homeless_children_total_nyc,23679,HOUSING & INFRASTRUCTURE
+homeless_per_1000_nyc,2.455673,HOUSING & INFRASTRUCTURE
+owner_occ_nyc,32.751053855932,HOUSING & INFRASTRUCTURE
+renter_occ_nyc,67.248946144068,HOUSING & INFRASTRUCTURE
+no_kitchen_nyc,0.817900226597867,HOUSING & INFRASTRUCTURE
+dilap_homes_nyc,11.2,HOUSING & INFRASTRUCTURE
+median_value_nyc,645100,HOUSING & INFRASTRUCTURE
+nycha_pop_nyc,3369.85013275427,HOUSING & INFRASTRUCTURE
+more_than_one_nyc,9.0636634494124,HOUSING & INFRASTRUCTURE
+paint_per_1000_nyc,4.054733,HOUSING & INFRASTRUCTURE
+public_housing_pop_nyc,1035.94025906973,HOUSING & INFRASTRUCTURE
+pub_housing_wtlst_nyc,3677,HOUSING & INFRASTRUCTURE
+rental_vac_nyc,9.51730283086605,HOUSING & INFRASTRUCTURE
+section8_household_nyc,992.206847555139,HOUSING & INFRASTRUCTURE
+section8_pop_nyc,2333.90987368455,HOUSING & INFRASTRUCTURE
+dem_female_nyc,78.3977067837613,POLITICAL ENGAGEMENT
+rep_female_nyc,8.02733908561394,POLITICAL ENGAGEMENT
+unaff_female_nyc,11.0683181325266,POLITICAL ENGAGEMENT
+female_voter_nyc,57.8906677470689,POLITICAL ENGAGEMENT
+dem_male_nyc,69.6448737235686,POLITICAL ENGAGEMENT
+rep_male_nyc,11.9707223833903,POLITICAL ENGAGEMENT
+unaff_male_nyc,14.802315234177,POLITICAL ENGAGEMENT
+male_voter_nyc,41.8685389926363,POLITICAL ENGAGEMENT
+other_nyc,2.95839476728887,POLITICAL ENGAGEMENT
+dem_nyc,74.711528421123,POLITICAL ENGAGEMENT
+other_female_nyc,2.50663599809813,POLITICAL ENGAGEMENT
+other_male_nyc,3.58208865886409,POLITICAL ENGAGEMENT
+rep_nyc,9.67278848202091,POLITICAL ENGAGEMENT
+unaff_nyc,12.6572883295672,POLITICAL ENGAGEMENT
+voted_last_three_years_nyc,44.001095354667,POLITICAL ENGAGEMENT
+voter_turnout_2016_nyc,52.2786,POLITICAL ENGAGEMENT
+voter_turnout_1819_nyc,41.212866374082,POLITICAL ENGAGEMENT
+afterschool_prog_nyc,628667810.09,PUBLIC FUNDING & SERVICES
+fd_staff_nyc,10079,PUBLIC FUNDING & SERVICES
+immigrant_serv_nyc,14377888.56,PUBLIC FUNDING & SERVICES
+library_budget_nyc,209097255,PUBLIC FUNDING & SERVICES
+books_total_nyc,32128539,PUBLIC FUNDING & SERVICES
+books_adult_nyc,52.5074109345588,PUBLIC FUNDING & SERVICES
+books_children_nyc,41.6874075724389,PUBLIC FUNDING & SERVICES
+books_ya_nyc,5.80518149300222,PUBLIC FUNDING & SERVICES
+library_staff_nyc,2437.59,PUBLIC FUNDING & SERVICES
+runaway_homeless_prog_nyc,40718592.63,PUBLIC FUNDING & SERVICES
+sanitation_budget_nyc,460841351,PUBLIC FUNDING & SERVICES
+clean_streets_nyc,95.4,PUBLIC FUNDING & SERVICES
+workforce_prog_nyc,33060538.65,PUBLIC FUNDING & SERVICES
+burglaries_per_1000_nyc,1.30543266686892,SAFETY & SECURITY
+burglaries_nyc,10964,SAFETY & SECURITY
+abused_kids_nyc,16.25466,SAFETY & SECURITY
+felony_assaults_per_1000_nyc,2.48310819660264,SAFETY & SECURITY
+felony_assaults_nyc,20855,SAFETY & SECURITY
+grand_larcenies_per_1000_nyc,5.48034064124796,SAFETY & SECURITY
+grand_larceny_nyc,46028,SAFETY & SECURITY
+helpful_neighbor_nyc,72,SAFETY & SECURITY
+homicides_per_1000_nyc,0.0417919432753549,SAFETY & SECURITY
+homicides_nyc,351,SAFETY & SECURITY
+jail_incar_nyc,425,SAFETY & SECURITY
+major_felonies_per_1000_nyc,11.5438634425036,SAFETY & SECURITY
+major_felonies_nyc,96954,SAFETY & SECURITY
+medical_respon_nyc,314055,SAFETY & SECURITY
+motor_vehicle_thefts_per_1000_nyc,0.660931843650982,SAFETY & SECURITY
+motor_vehicle_thefts_nyc,5551,SAFETY & SECURITY
+non_medical_respon_nyc,239499,SAFETY & SECURITY
+rapes_per_1000_nyc,0.266825483988804,SAFETY & SECURITY
+rapes_nyc,2241,SAFETY & SECURITY
+residential_fires_nyc,21114,SAFETY & SECURITY
+robberies_per_1000_nyc,1.30543266686892,SAFETY & SECURITY
+robberies_nyc,10964,SAFETY & SECURITY
+poverty_child_federal_number_nyc,407238,"WORK, WEALTH & POVERTY"
+poverty_child_federal_percent_nyc,23.7915327105971,"WORK, WEALTH & POVERTY"
+commute_60_mins_plus_nyc,27.581327446513,"WORK, WEALTH & POVERTY"
+average_commute_nyc,41.2,"WORK, WEALTH & POVERTY"
+veterans_poverty_disabled_nyc,6252,"WORK, WEALTH & POVERTY"
+veterans_poverty_disabled_percent_nyc,4.35260864116738,"WORK, WEALTH & POVERTY"
+poverty_65_federal_number_nyc,226454,"WORK, WEALTH & POVERTY"
+poverty_65_federal_percent_nyc,18.7336305953789,"WORK, WEALTH & POVERTY"
+full_time_workers_nyc,79.8864389353866,"WORK, WEALTH & POVERTY"
+part_time_workers_nyc,20.1135610646134,"WORK, WEALTH & POVERTY"
+working_poor_nyc,6.45065715752217,"WORK, WEALTH & POVERTY"
+income_inequality_nyc,0.5469,"WORK, WEALTH & POVERTY"
+income_inequality_nyc_historical,0.532,"WORK, WEALTH & POVERTY"
+income_inequality_change_nyc,2.80075187969925,"WORK, WEALTH & POVERTY"
+agriculture_forestry_fishing_hunting_mining_industries_nyc,0.0853010967493247,"WORK, WEALTH & POVERTY"
+arts_entertainment_recreation_accommodation_food_services_nyc,10.7079502478666,"WORK, WEALTH & POVERTY"
+construction_industries_nyc,5.37978285838797,"WORK, WEALTH & POVERTY"
+educational_services_health_care_social_assistance_industries_nyc,26.6157742540185,"WORK, WEALTH & POVERTY"
+finance_insurance_real_estate_rental_leasing_industries_nyc,9.3142348770096,"WORK, WEALTH & POVERTY"
+information_industries_nyc,3.65507382746412,"WORK, WEALTH & POVERTY"
+manufacturing_industries_nyc,3.00913542501784,"WORK, WEALTH & POVERTY"
+other_service_industries_nyc,5.29203900399977,"WORK, WEALTH & POVERTY"
+professional_scientific_management_administrative_waste_management_services_industries_nyc,14.425631953615,"WORK, WEALTH & POVERTY"
+public_administration_industries_nyc,3.7571078140397,"WORK, WEALTH & POVERTY"
+retail_trade_industries_nyc,8.79236413504151,"WORK, WEALTH & POVERTY"
+transportation_warehousing_utilities_industries_nyc,7.02964579525685,"WORK, WEALTH & POVERTY"
+wholesale_trade_industries_nyc,1.93595871153328,"WORK, WEALTH & POVERTY"
+labor_force_participation_nyc,63.5367279088476,"WORK, WEALTH & POVERTY"
+median_household_income_nyc,63799,"WORK, WEALTH & POVERTY"
+median_personal_earnings_nyc,40932,"WORK, WEALTH & POVERTY"
+median_personal_earnings_nyc_historical,37069.11,"WORK, WEALTH & POVERTY"
+median_personal_earnings_change_nyc,10.4207789180803,"WORK, WEALTH & POVERTY"
+veterans_med_income_nyc,38101,"WORK, WEALTH & POVERTY"
+management_business_science_and_arts_occupations_nyc,42.0033397382439,"WORK, WEALTH & POVERTY"
+natural_resources_construction_and_maintenance_occupations_nyc,5.93787969614049,"WORK, WEALTH & POVERTY"
+production_transportation_and_material_moving_occupations_nyc,9.45818658466818,"WORK, WEALTH & POVERTY"
+sales_and_office_occupations_nyc,19.8327981251347,"WORK, WEALTH & POVERTY"
+service_occupations_nyc,22.7677958558128,"WORK, WEALTH & POVERTY"
+poverty_all_ages_federal_number_nyc,1426628,"WORK, WEALTH & POVERTY"
+poverty_all_ages_federal_percent_nyc,17.275658196198,"WORK, WEALTH & POVERTY"
+poverty_ceo_nyc,19.1,"WORK, WEALTH & POVERTY"
+poverty_all_ages_federal_percent_nyc_historical,21.2481,"WORK, WEALTH & POVERTY"
+poverty_all_ages_federal_change_nyc,-18.69551538162,"WORK, WEALTH & POVERTY"
+private_wage_and_salary_workers_class_nyc,80.3754958187317,"WORK, WEALTH & POVERTY"
+self_employed_class_nyc,6.48916124008057,"WORK, WEALTH & POVERTY"
+publicassist_nyc,4.53359024473574,"WORK, WEALTH & POVERTY"
+unemployment_nyc,3.64400090888009,"WORK, WEALTH & POVERTY"
+veterans_unemployed_nyc,2537,"WORK, WEALTH & POVERTY"
+veterans_unemployed_percent_nyc,3.92596833846582,"WORK, WEALTH & POVERTY"
+unpaid_family_workers_class_nyc,0.104623309672783,"WORK, WEALTH & POVERTY"
+veterans_poverty_nyc,15986,"WORK, WEALTH & POVERTY"
+veterans_poverty_percent_nyc,11.1293668806305,"WORK, WEALTH & POVERTY"
+government_workers_class_nyc,13.0307196315149,"WORK, WEALTH & POVERTY"
