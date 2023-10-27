@@ -18,7 +18,7 @@ Standardization: The data was standardized to have a mean of 0 and a standard de
 Conversion: For optimization and accuracy purposes, the data was converted to a numpy array before feeding it into the K-Means algorithm.
 ## 3. Choosing the Optimal Number of Clusters
 - PRE CLUSTERED DATA :
-<img src="./pre-cluster.png" width="200" height="200" />
+<img src="./pre-cluster.png" width="600" height="600" />
 
 To determine the most appropriate number of clusters:
 
@@ -27,7 +27,7 @@ By plotting the cost (inertia) against the number of clusters, the "elbow point"
 The Silhouette score, which measures how close each point in one cluster is to the points in neighboring clusters, was also used to validate the chosen cluster number.
 
 - OPTIMAL HYPER PARAMETERS :
-<img src="./optimal-hyperparams.png" width="200" height="200" />
+<img src="./optimal-hyperparams.png" width="600" height="600" />
 
 ## 4. Implementing K-Means Clustering
 With the optimal number of clusters identified, the K-Means algorithm was applied.
@@ -40,7 +40,7 @@ The t-SNE plot showed the data points colored based on their cluster assignments
 
 ## 6. Interpretation and Conclusion
 - CLUSTERED DATA 
-<img src="./final-cluster.png" width="200" height="200" />
+<img src="./final-cluster.png" width="600" height="600" />
 The visualization offered insights into the distribution and grouping of the data points.
 By selecting 6 as the optimal number of clusters, we captured the primary patterns within the data. Some smaller groupings might have been integrated into larger, more dominant clusters. Therefore, recommendations or interpretations based on any data point now align with its broader cluster.
 
