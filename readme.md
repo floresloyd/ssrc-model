@@ -30,11 +30,11 @@ We were given the task to improve user experience in the Data2go.nyc website by 
 
 ### Prerequisites
 
-pip install numpy
-pip install pandas
-pip install scikit-learn
-pip install matplotlib
-pip install seaborn
+- pip install numpy
+- pip install pandas
+- pip install scikit-learn
+- pip install matplotlib
+- pip install seaborn
 
 
 ### Installation
