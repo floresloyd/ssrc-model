@@ -27,7 +27,7 @@ By plotting the cost (inertia) against the number of clusters, the "elbow point"
 The Silhouette score, which measures how close each point in one cluster is to the points in neighboring clusters, was also used to validate the chosen cluster number.
 
 - OPTIMAL HYPER PARAMETERS :
-<img src="./optimal-hyperparams.png" width="600" height="600" />
+<img src="./optimal-hyperparams.png" width="1000" height="600" />
 
 ## 4. Implementing K-Means Clustering
 With the optimal number of clusters identified, the K-Means algorithm was applied.
