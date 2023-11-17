@@ -1,59 +1,31 @@
-# K-Means Clustering for Social Science Research Council
+#Feature Engineering.
 
-This project utilizes the K-Means clustering algorithm to group data into distinct clusters based on their inherent patterns (Variable Category). The goal is to classify similar data points together, which can provide valuable insights into the data's underlying structure and offer actionable recommendations. 
+This section of the repository is dedicated to the feature engineering phase, where we transform the cleaned data into a format suitable for clustering.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-3. [Usage](#usage)
-4. [Results](#results)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+## Contents
 
-## Introduction
+- `final_data.csv` - The dataset resulting from the data cleaning phase, which will undergo feature engineering.
 
-We were given the task to improve user experience in the Data2go.nyc website by recommending related variables a user may have missed, by suggesting another variable that is closely related the one selected. K-means is the best approach for this.
+- `notebook.ipynb` - A Jupyter notebook that documents the feature engineering process. It contains the code, explanations, and decision-making rationale for each feature engineering step performed.
 
-## Getting Started
+- `sector_one_hot_encoded.csv` - This CSV file is the outcome of applying one-hot encoding to the 'sector' feature within our data. It represents a preprocessed form of the `final_data.csv`, specifically transformed for algorithms that require numerical input.
 
-### Folder Description and Checkpoints
-- data_cleaning : this contains the initial dataset we pulled from data2go nyc's website. We had to clean the data by extracting only the data we needed
+## How to Use
 
-- feature-engineering : this contains how we transformed the clean data into something the model could use. We vectorized our variable/indicator column and one-hot-encoded our categories.
+To follow the feature engineering steps:
 
-- data-vis-kmeans-clustering : this is where all the final findings are stored. If you're only interested in the results and clustering of the data, please refer to this
+1. Review the `notebook.ipynb` to understand the feature engineering techniques applied, such as one-hot encoding, normalization, or custom transformations.
+2. Execute the notebook to apply these transformations to the `final_data.csv`.
+3. Examine the `sector_one_hot_encoded.csv` to ensure the one-hot encoding is correctly applied.
 
-- model1&2Data-r : Our first approach on pulling data from census.gov. This idea is then scrapped instead utilizing the data2go.nyc dataset instead 
+# Output
+- Cleaned Data
+<img src="../II.Data_Cleaning/images/cleaned-data.png" width="600" height="600" />
 
-### Prerequisites
+- One Hot Encoded Sectors
+<img src="./images/one_hot_encoded.png" width="600" height="600" />
 
-- pip install numpy
-- pip install pandas
-- pip install scikit-learn
-- pip install matplotlib
-- pip install seaborn
+## Contributing
 
+Contributions to this project are welcome. If you have suggestions or improvements for the feature engineering process, please fork the repository, commit your changes, and submit a pull request.
 
-### Installation
-
-Instructions on how to get the development environment running. For example:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your_username/kmeans-project.git
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-Instructions on how to use the script or application. Include example commands or scripts if necessary.
-
-```bash
-python kmeans_clustering_script.py --input your_data.csv

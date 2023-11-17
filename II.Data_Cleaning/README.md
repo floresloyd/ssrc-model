@@ -1,59 +1,36 @@
-# K-Means Clustering for Social Science Research Council
+# II. Data Cleaning.
 
-This project utilizes the K-Means clustering algorithm to group data into distinct clusters based on their inherent patterns (Variable Category). The goal is to classify similar data points together, which can provide valuable insights into the data's underlying structure and offer actionable recommendations. 
+This directory contains the scripts and datasets involved in the data cleaning phase of our project. We use Data2Go's dataset
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-3. [Usage](#usage)
-4. [Results](#results)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+## Directory Structure
 
-## Introduction
+- `images/` - This folder contains images of the data set before and after the data cleaning process.
 
-We were given the task to improve user experience in the Data2go.nyc website by recommending related variables a user may have missed, by suggesting another variable that is closely related the one selected. K-means is the best approach for this.
+- `data2go_data_cleaning.ipynb` - A Jupyter notebook detailing the data cleaning steps applied to the `data2gogo.csv` file. It includes code and commentary that explains the rationale behind each data cleaning operation.
 
-## Getting Started
+- `data2gogo.csv` - The raw dataset as obtained from the initial data sourcing phase. This dataset contains uncleaned data that needs processing.
 
-### Folder Description and Checkpoints
-- data_cleaning : this contains the initial dataset we pulled from data2go nyc's website. We had to clean the data by extracting only the data we needed
-
-- feature-engineering : this contains how we transformed the clean data into something the model could use. We vectorized our variable/indicator column and one-hot-encoded our categories.
-
-- data-vis-kmeans-clustering : this is where all the final findings are stored. If you're only interested in the results and clustering of the data, please refer to this
-
-- model1&2Data-r : Our first approach on pulling data from census.gov. This idea is then scrapped instead utilizing the data2go.nyc dataset instead 
-
-### Prerequisites
-
-- pip install numpy
-- pip install pandas
-- pip install scikit-learn
-- pip install matplotlib
-- pip install seaborn
-
-
-### Installation
-
-Instructions on how to get the development environment running. For example:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your_username/kmeans-project.git
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+- `final_data.csv` - The cleaned and processed dataset, which is the output of the `data2go_data_cleaning.ipynb` notebook. This file is ready for further analysis or modeling.
 
 ## Usage
 
-Instructions on how to use the script or application. Include example commands or scripts if necessary.
+To understand and replicate the data cleaning process:
 
-```bash
-python kmeans_clustering_script.py --input your_data.csv
+1. Inspect the `data2go_data_cleaning.ipynb` notebook to see the detailed steps taken for cleaning the data.
+2. Run the notebook cells in sequence to apply the data cleaning operations to the raw data.
+3. Review the `final_data.csv` to ensure the cleaning process has been executed as intended.
+
+
+## Output
+- Pre Cleaned Data 
+<img src="./images/pre-clean.png" width="600" height="600" />
+- In the notebook
+<img src="./images/pre-clean-incode.png" width="600" height="600" />
+
+- Cleaned Data
+<img src="./images/cleaned-data.png" width="600" height="600" />
+
+## Contributing
+
+If you have suggestions for improving the data cleaning process, or if you have applied a new cleaning step that might be beneficial, please feel free to fork this repository, commit your changes, and open a pull request.
+

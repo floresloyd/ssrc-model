@@ -1,59 +1,33 @@
-# K-Means Clustering for Social Science Research Council
+# V. Correlation Analysis.
 
-This project utilizes the K-Means clustering algorithm to group data into distinct clusters based on their inherent patterns (Variable Category). The goal is to classify similar data points together, which can provide valuable insights into the data's underlying structure and offer actionable recommendations. 
+This directory contains the resources used for conducting a correlation analysis on the dataset.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-3. [Usage](#usage)
-4. [Results](#results)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+## Contents
 
-## Introduction
+- `correlation_matrix.csv` - A CSV file containing the correlation matrix of the variables in `data.csv`. This matrix quantifies the degree to which the variables in the dataset are linearly related.
 
-We were given the task to improve user experience in the Data2go.nyc website by recommending related variables a user may have missed, by suggesting another variable that is closely related the one selected. K-means is the best approach for this.
+- `data.csv` - The processed dataset ready for correlation analysis.
 
-## Getting Started
+- `notebook.ipynb` - A Jupyter notebook that includes the code for generating the correlation matrix and potentially some visualizations and interpretations. This notebook explains the methodology and the findings of the correlation analysis.
 
-### Folder Description and Checkpoints
-- data_cleaning : this contains the initial dataset we pulled from data2go nyc's website. We had to clean the data by extracting only the data we needed
+## How to Use
 
-- feature-engineering : this contains how we transformed the clean data into something the model could use. We vectorized our variable/indicator column and one-hot-encoded our categories.
+To replicate the correlation analysis or to understand the relationships between the different variables:
 
-- data-vis-kmeans-clustering : this is where all the final findings are stored. If you're only interested in the results and clustering of the data, please refer to this
-
-- model1&2Data-r : Our first approach on pulling data from census.gov. This idea is then scrapped instead utilizing the data2go.nyc dataset instead 
-
-### Prerequisites
-
-- pip install numpy
-- pip install pandas
-- pip install scikit-learn
-- pip install matplotlib
-- pip install seaborn
+1. Start by examining the `notebook.ipynb` for the step-by-step process and the analytical narrative.
+2. Execute the notebook to generate the correlation matrix and visualizations.
+3. Review the `correlation_matrix.csv` for a tabular representation of the correlations.
 
 
-### Installation
+## Output
+- Heatmap focused on 5 variables (Explore more in notebook.ipynb)
+<img src="./images/heatmap-5var.png" width="600" height="600" />
 
-Instructions on how to get the development environment running. For example:
+- Output of recommender system ran against "median_household_income_nyc", and returns 5 most correlated variables
+<img src="./images/output.png" width="600" height="600" />
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your_username/kmeans-project.git
-    ```
+## Contributing
 
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+Your insights and improvements are valued. If you wish to contribute to this correlation analysis, please fork the repository, make your changes, and create a pull request with a clear explanation of your modifications.
 
-## Usage
-
-Instructions on how to use the script or application. Include example commands or scripts if necessary.
-
-```bash
-python kmeans_clustering_script.py --input your_data.csv
+# Done 
