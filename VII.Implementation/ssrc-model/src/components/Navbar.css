@@ -1,0 +1,35 @@
+/* Navbar.css */
+.navbar {
+    background-color: #FFD700; /* Adjust the color to match the exact yellow shade from the photo */
+    padding: 10px;
+    border-radius: 10px; /* Rounded edges */
+    display: flex;
+    align-items: center; /* Center items vertically */
+    gap: 10px; /* Spacing between nav items */
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: black; /* Text color */
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px; /* Rounded edges for links */
+  }
+  
+  .nav-link-selected {
+    background-color: black; /* Background for selected nav item */
+    color: white;
+  }
+  
+  /* Adjust this part for your logo specifics */
+  .logo {
+    height: 40px; /* Logo height */
+    margin-right: auto; /* Pushes logo to the left and nav items to the right */
+  }
+  
+  /* Additional styles to change appearance when hovering and for active links */
+  .nav-link:hover, .nav-link:active {
+    background-color: black;
+    color: white;
+  }
+  
