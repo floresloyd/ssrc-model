@@ -1,6 +1,6 @@
-# IV. Clustering
+# IV. Clustering with K-Means 
 
-Overview K-Means Clustering: 
+Overview: 
 This project utilizes the K-Means clustering algorithm to group data into distinct clusters based on their inherent patterns. The goal is to classify similar data points together, which can provide valuable insights into the data's underlying structure and offer actionable recommendations.
 
 Table of Contents

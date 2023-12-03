@@ -26,6 +26,8 @@ To replicate the correlation analysis or to understand the relationships between
 - Output of recommender system ran against "median_household_income_nyc", and returns 5 most correlated variables
 <img src="./images/output.png" width="600" />
 
+- The Recommender system takes one required and one optional argument. The target variable, in this example "median_household_income_nyc", and the optional argument is the number of entries to return, by default it is set to 5.
+
 ## Contributing
 
 Your insights and improvements are valued. If you wish to contribute to this correlation analysis, please fork the repository, make your changes, and create a pull request with a clear explanation of your modifications.
