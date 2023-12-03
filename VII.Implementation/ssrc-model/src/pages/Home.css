@@ -1,0 +1,68 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white; /* Sets the default text color to white */
+  }
+  
+  h1, li {
+    color: white;
+  }
+  
+  /* Container for the controls to make them look elevated */
+  .indicator-container {
+    display: inline-block; /* Makes the container inline so it doesn't take full width */
+    background: #333; /* Dark background for the container */
+    padding: 5px 10px; /* Reduced padding */
+    margin: 0 0 10px 0; /* Adjusted margin */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5); /* Smaller shadow for a subtler elevation effect */
+    font-size: 0.9em; /* Adjust font size as needed */
+    border-radius: 4px; /* Rounded corners for aesthetics */
+    /* You might want to adjust top margin to position it higher or lower as needed */
+  }
+
+  .controls-container {
+    background: #333; /* Dark background for the container */
+    padding: 20px; /* Padding inside the container */
+    margin-top: 10px;
+    margin-bottom: 30px; /* Margin at the bottom of the container */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); /* Shadow to create the elevation effect */
+    overflow: visible; /* Ensure dropdowns can extend beyond the container */
+  }
+  
+  /* Styles for individual control groups */
+  .control-group {
+    margin-bottom: 15px; /* Space between control groups */
+    position: relative; /* Establishes a positioning context for pseudo-elements */
+  }
+  
+  /* Style for the h3 elements within the control groups */
+  .control-group h3 {
+    margin-bottom: 5px; /* Space between the header and the control element */
+    color: #fff; /* Light text color for contrast */
+  }
+  
+  /* Style for the select elements and input */
+  select, input[type="number"] {
+    width: 100%; /* Full width of the container */
+    padding: 10px; /* Padding inside the control elements */
+    margin-bottom: 10px; /* Space after each select/input for spacing */
+    background: #fff; /* Light background for the controls */
+    border: 1px solid #ccc; /* Border for the controls */
+    box-sizing: border-box; /* Include padding and border in the width */
+  }
+  
+  /* Style for the ul element to match the uploaded image */
+  ul {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    color: #fff; /* Text color for the list items */
+  }
+  
+  /* List item styles to match the uploaded image */
+  ul li {
+    background: #444; /* Slightly lighter background for list items */
+    margin-bottom: 5px; /* Space between list items */
+    padding: 10px; /* Padding inside list items */
+    border-left: 5px solid yellow; /* Left border for a highlight effect */
+  }
+  

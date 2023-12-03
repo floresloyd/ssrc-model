@@ -1,0 +1,16 @@
+/* Logo.css */
+.logo-container {
+ opacity: .5; /* Make the logo faded out */
+  
+  }
+  
+  .logo {
+    display: block; /* Can be useful if your logo is an img element */
+    height: auto; /* Maintain aspect ratio */
+    width: auto; /* Scale width automatically based on height */
+    /* Add more styles as necessary for your logo */
+
+    max-height: 100px; /* Adjust if necessary */
+    margin: 0 1px; /* Optional: to add space between logos */
+  }
+  

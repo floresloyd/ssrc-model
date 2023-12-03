@@ -1,0 +1,15 @@
+/* App.css */
+.logo-wrapper {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center logos horizontally */
+    align-items: center; /* Center logos vertically */
+    position: fixed; /* Fixed position to keep logos at the bottom */
+    bottom: 0; /* Align with the bottom of the viewport */
+    left: 0; /* Align with the left of the viewport */
+    right: 0; /* Align with the right of the viewport */
+    padding: 5px; /* Reduce padding to bring logos closer to the bottom edge */
+    z-index: 10; /* Ensure it sits above other elements */
+    gap: 10px; /* Space between logos */
+    background: transparent; /* Or any color you want for the background */
+  }
+  

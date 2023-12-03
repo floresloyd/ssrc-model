@@ -1,25 +1,26 @@
-/* eslint-disable no-unused-vars */
+import Navbar from "./components/Navbar"
+import Home from "./pages/Home"
+import { BrowserRouter } from 'react-router-dom';
+import Logo from "./components/Logo";
+import moaLogo from "./assets/moa-logo.png"
+import bttLogo from "./assets/btt-logo.png"
+import helmsLogo from "./assets/helmsley-logo.png"
+import "./App.css"
 
-import "./App.css";
-import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import Chat from "./pages/Chat";
-import Recommend from "./pages/Recommend";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-
-function App() {
-  return (
-    <>
+const App = () => {
+  return(
+    <div> {/* Set the background color here */}
       <BrowserRouter>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />}></Route>
-          <Route path="/recommend" element={<Recommend />}></Route>
-          <Route path="/chat" element={<Chat />}></Route>
-        </Routes>
-      </BrowserRouter>
-    </>
-  );
+        <Navbar/>
+      </BrowserRouter>      
+      <Home/>
+      <div className="logo-wrapper"> {/* New wrapper div for logos */}
+        <Logo link="https://www.breakthroughtech.org/" pathToLogo={bttLogo} />
+        <Logo link="https://measureofamerica.org/" pathToLogo={moaLogo} />
+        <Logo link="https://helmsleytrust.org/" pathToLogo={helmsLogo} />
+      </div>
+    </div>
+  )
 }
 
 export default App;
