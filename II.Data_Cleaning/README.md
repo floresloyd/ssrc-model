@@ -24,7 +24,8 @@ To understand and replicate the data cleaning process:
 ## Output
 - Pre Cleaned Data 
 <img src="./images/pre-clean.png" width="600" />
-- In the notebook
+
+- In Jupyter Notebook
 <img src="./images/pre-clean-incode.png" width="600" />
 
 - Cleaned Data
