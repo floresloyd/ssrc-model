@@ -1,6 +1,6 @@
-# V. Correlation Analysis.
+# V. Recommender System Implementation and Correlation Analysis
 
-This directory contains the resources used for conducting a correlation analysis on the dataset.
+This directory contains the resources used for conducting a correlation analysis on the dataset and the implementation of the Recommender System using the data produced by the correlations
 
 ## Contents
 
@@ -21,13 +21,13 @@ To replicate the correlation analysis or to understand the relationships between
 
 ## Output
 - Heatmap focused on 5 variables (Explore more in notebook.ipynb)
-<img src="./images/heatmap-5var.png" width="600" height="600" />
+<img src="./images/heatmap-5var.png" width="600" />
 
 - Output of recommender system ran against "median_household_income_nyc", and returns 5 most correlated variables
-<img src="./images/output.png" width="600" height="600" />
+<img src="./images/output.png" width="600" />
 
 ## Contributing
 
 Your insights and improvements are valued. If you wish to contribute to this correlation analysis, please fork the repository, make your changes, and create a pull request with a clear explanation of your modifications.
 
-# Done 
+# Donew
