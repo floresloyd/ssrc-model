@@ -1,49 +1,31 @@
-# K-Means Clustering for Social Science Research Council
-
-This project utilizes the K-Means clustering algorithm to group data into distinct clusters based on their inherent patterns (Variable Category). The goal is to classify similar data points together, which can provide valuable insights into the data's underlying structure and offer actionable recommendations. 
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-3. [Usage](#usage)
-4. [Results](#results)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+# Social Science Research Council Recommender System and Chatbot
 
 ## Introduction
+This repository contains the machine learning implementations for a project conducted for the Social Science Research Council. It aims to enhance the user experience on the DATA2GO.NYC website by identifying correlations between variables that users might otherwise overlook. The project's focus is to provide deeper insights and make the data more digestible for users.
 
-We were given the task to improve user experience in the Data2go.nyc website by recommending related variables a user may have missed, by suggesting another variable that is closely related the one selected. K-means is the best approach for this.
+## Project Components
+- **Recommender System**: Utilizes clustering to suggest variables that correlate with the user's current interest.
+- **Chatbot**: An interactive agent that assists users in navigating the DATA2GO.NYC website, answering queries, and providing recommendations based on the underlying data patterns.
 
+## Folder Structure
+The repository is organized into several folders, each representing a stage in the development process:
+- `I_Data_Collection`: Scripts and notebooks related to data gathering.
+- `II_Data_Cleaning`: Tools and techniques used for preparing the data for analysis.
+- `III_Feature_Engineering`: Code pertaining to the creation and selection of features for the machine learning models.
+- `IV_Clustering`: Implementation of clustering algorithms to group similar data points.
+- `V_Recommender_System`: The recommender system's core algorithms and functionality.
+- `VI_Chatbot`: Chatbot implementation
+- `VII_Implementation`: The integration of the recommender system and chatbot into the DATA2GO.NYC website.
 
-### Prerequisites
-
-- pip install numpy
-- pip install pandas
-- pip install scikit-learn
-- pip install matplotlib
-- pip install seaborn
-
-
-### Installation
-
-Instructions on how to get the development environment running. For example:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your_username/kmeans-project.git
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+## Implementation 
+<img src="./VII.Implementation/ssrc-model/public/screenshot.png" width="600" />
+![Walkthrough](https://clipchamp.com/watch/Y0fgX4MAoRr)
 
 ## Usage
+To use the recommender system or chatbot, follow the instructions provided in the respective folders. Each folder contains a README with specific setup and execution steps.
 
-Instructions on how to use the script or application. Include example commands or scripts if necessary.
+## Contributing
+Contributions to this project are welcome. Please read the CONTRIBUTING.md file for guidelines on how to make a contribution.
 
-```bash
-python kmeans_clustering_script.py --input your_data.csv
+## Acknowledgments
+Special thanks to the Social Science Research Council and the DATA2GO.NYC team for their support and collaboration in this project.
