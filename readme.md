@@ -35,7 +35,7 @@ Special thanks
 - Rebecca Gluskin Deputy Director, Data Scientist at Measure of America 
 - Ryan Hardesty Lewis our Mentor
 
-<img src="https://drive.google.com/file/d/11XsPuohWWtOpZIUl_SU9SIUMeEKLikKy/view?usp=drive_link" alt="bttai_logo" width="200"/>
+<img src="https://github.com/floresloyd/ssrc-model/blob/master/bttai.png" alt="bttai_logo" width="200"/>
 
-<img src="/ssrc_logo.jpg" alt="ssrclogo" width="200"/>
+<img src="https://github.com/floresloyd/ssrc-model/blob/master/ssrc_logo.jpg" alt="ssrclogo" width="200"/>
 
