@@ -23,12 +23,12 @@ To understand and replicate the data cleaning process:
 
 ## Output
 - Pre Cleaned Data 
-<img src="./images/pre-clean.png" width="600" height="600" />
+<img src="./images/pre-clean.png" width="600" />
 - In the notebook
-<img src="./images/pre-clean-incode.png" width="600" height="600" />
+<img src="./images/pre-clean-incode.png" width="600" />
 
 - Cleaned Data
-<img src="./images/cleaned-data.png" width="600" height="600" />
+<img src="./images/cleaned-data.png" width="600" />
 
 ## Contributing
 
