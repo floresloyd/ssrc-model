@@ -28,4 +28,13 @@ To use the recommender system or chatbot, follow the instructions provided in th
 Contributions to this project are welcome. Please read the CONTRIBUTING.md file for guidelines on how to make a contribution.
 
 ## Acknowledgments
-Special thanks to the Social Science Research Council and the DATA2GO.NYC team for their support and collaboration in this project.
+Special thanks to the SSRC1B, Social Science Research Council and Measure of America, Breakthrough Tech AI
+
+Special thanks to 
+- Rebecca Gluskin Deputy Director, Data Scientist at Measure of America 
+- Ryan Hardesty Lewis our Mentor
+
+![BTTLogo](/ssrc-model/VII.Implementation/ssrc-model/src/assets/btt-logo.png)
+![DATA2GOLogo](/ssrc-model/VII.Implementation/ssrc-model/src/assets/d2g_logo.png)
+![MOALogo](/ssrc-model/VII.Implementation/ssrc-model/src/assets/moa-logo.png)
+
