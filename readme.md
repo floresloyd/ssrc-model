@@ -35,7 +35,7 @@ Special thanks
 - Rebecca Gluskin Deputy Director, Data Scientist at Measure of America 
 - Ryan Hardesty Lewis our Mentor
 
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=0uthlXER&id=BA0D59DBE143ADF6EBC90CD07488F56FE20C84B2&thid=OIP.0uthlXER_w1xG49qJrs43QHaDt&mediaurl=https%3a%2f%2ftech.cornell.edu%2fwp-content%2fuploads%2f2020%2f01%2f4.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d2eb61957111ff0d711b8f6a26bb38dd%3frik%3dsoQM4m%252f1iHTQDA%26pid%3dImgRaw%26r%3d0&exph=512&expw=1024&q=breakthrough+tech+logo&simid=608026554900107281&FORM=IRPRST&ck=E14EFA9D13E36767607550667A3ABD1C&selectedIndex=8&itb=0&ajaxhist=0&ajaxserp=0" alt="bttai_logo" width="200"/>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=GpTPQgFW&id=C3F6EC2017482D26E16F20EE4EF391481D41413F&thid=OIP.GpTPQgFWcGDGH4bsNLAguQAAAA&mediaurl=https%3A%2F%2Fwww.data2go.nyc%2Fassets%2Fimg%2FD2G_Logo.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.1a94cf4201567060c61f86ec34b020b9%3Frik%3DP0FBHUiR807uIA%26pid%3DImgRaw%26r%3D0&exph=60&expw=60&q=data2go+nyc+logo&simid=607998173781508567&form=IRPRST&ck=E6B160C4B9B48B2A145732896CFF308E&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11" alt="d2gologo" width="200"/>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=N9LIQEhK&id=60EC285B593BAE8EC8091A67161B08F36A46BC93&thid=OIP.N9LIQEhKmKT5YWZJhK_keAHaC9&mediaurl=https%3a%2f%2fcdn.movemeback.com%2fmedia%2fthumbnails%2fimages%2fsocial-science-research-council-organisation-logo-20201112-10412139%2f22fb02c39435d2d1ee34c008e72f22ff.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.37d2c840484a98a4f961664984afe478%3frik%3dk7xGavMIGxZnGg%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d520%26srw%3d1300&exph=320&expw=800&q=social+science+research+council+logo&simid=608007618364318091&FORM=IRPRST&ck=593BE1D315C6A050F7CEEB832B245309&selectedIndex=1&itb=0&ajaxhist=0&ajaxserp=0" alt="ssrclogo" width="200"/>
+<img src="/bttai.png" alt="bttai_logo" width="200"/>
+
+<img src="/ssrc_logo.jpg" alt="ssrclogo" width="200"/>
 
