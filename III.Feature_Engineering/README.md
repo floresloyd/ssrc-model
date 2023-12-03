@@ -20,10 +20,10 @@ To follow the feature engineering steps:
 
 # Output
 - Cleaned Data
-<img src="../II.Data_Cleaning/images/cleaned-data.png" width="600" height="600" />
+<img src="../II.Data_Cleaning/images/cleaned-data.png" style="max-width: 100%; height: auto;" />
 
 - One Hot Encoded Sectors
-<img src="./images/one_hot_encoded.png" width="600" height="600" />
+<img src="./images/one_hot_encoded.png" style="max-width: 100%; height: auto;" />
 
 ## Contributing
 
