@@ -36,6 +36,5 @@ Special thanks
 - Ryan Hardesty Lewis our Mentor
 
 <img src="https://github.com/floresloyd/ssrc-model/blob/master/bttai.png" alt="bttai_logo" width="200"/>
-
 <img src="https://github.com/floresloyd/ssrc-model/blob/master/ssrc_logo.jpg" alt="ssrclogo" width="200"/>
 
