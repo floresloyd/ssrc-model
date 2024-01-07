@@ -31,8 +31,8 @@ Contributions to this project are welcome. Please read the CONTRIBUTING.md file 
 Special thanks 
 - The team SSRC1B,
    <br> Labiba Aziz: [Labiba's Github Link](https://github.com/azizlabi)
-   <br> Xinyu Huang: [Xinyu's Github Link](https://github.com/Xinyuhh) 
-- Social Science Research Council and Measure of America
+   <br> Xinyu Huang: [Xinyu's Github Link](https://github.com/Xinyuhh)
+   <br> Fatima Ali: [Fatima's Github Link](https://github.com/faaali)
 - Breakthrough Tech AI
 - Rebecca Gluskin Deputy Director, Data Scientist at Measure of America 
 - Ryan Hardesty Lewis our Mentor
