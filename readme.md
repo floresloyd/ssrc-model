@@ -29,7 +29,8 @@ Contributions to this project are welcome. Please read the CONTRIBUTING.md file 
 
 ## Acknowledgments
 Special thanks 
-- The team SSRC1B, 
+- The team SSRC1B,
+   <br> [Name]: [name's Github Link](Link)
 - Social Science Research Council and Measure of America
 - Breakthrough Tech AI
 - Rebecca Gluskin Deputy Director, Data Scientist at Measure of America 
